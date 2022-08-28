@@ -1,3 +1,6 @@
+rmeek@usc.edu
+3615094381
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
